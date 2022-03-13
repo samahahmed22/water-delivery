@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">water_delivery</string>
+    <string name="facebook_app_id">327141249294027</string>
+    <string name="fb_login_protocol_scheme">fb327141249294027</string>
+    <string name="facebook_client_token">28bed72847b2df236501d96e7cbd4405</string>
+</resources>
